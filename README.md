@@ -1,4 +1,4 @@
-# Emcaw
+# Emca Women
 This is a source code repository for my final year project, EMCA Women
 
 This project will be a webapp with events, information, and services for our community.
